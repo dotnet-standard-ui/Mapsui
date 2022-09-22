@@ -1,0 +1,3 @@
+[submodule "external/standard-ui"]
+	path = external/standard-ui
+	url = ../standard-ui.git
